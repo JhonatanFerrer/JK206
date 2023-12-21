@@ -1,5 +1,7 @@
 JK206
 
+(/logo-whitebg.png)
+
 Español:
 
 este proyecto consiste en un diseño de teclado mecánico que es capaz de utilizarse tanto para un macropad como para un teclado 50%. 
