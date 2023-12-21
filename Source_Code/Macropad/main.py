@@ -1,5 +1,5 @@
 from kb import KMKKeyboard 
-from symbols import Symbols
+from symbols import SymbolsLinux as Symbols
 from combinations import Combinations
 from kmk.keys import KC
 from kmk.modules.layers import Layers
@@ -11,7 +11,6 @@ Keyboard = KMKKeyboard()
 Keyboard.modules.append(Layers())
 Keyboard.extensions.append(MediaKeys()) 
 
-Keyboard.unicode_mode = Symbols.UnicodeMode
 
 OledConfiguration = Oled(
       OledData(image={0:OledReactionType.LAYER,1:["logo.bmp","logo.bmp","KBNums.bmp","FNKeys.bmp","KeyComb.bmp"]}),
@@ -35,7 +34,7 @@ Keyboard.keymap = [
     # Layer 0 NUMPAD
    [
      KC.MEDIA_PLAY_PAUSE,  KC.HOME,           KC.END,           KC.ESCAPE,
-     Symbols.abrirpregunta,                KC.P8,             KC.P9,            KC.KP_SLASH,
+     KC.P2,                KC.P8,             KC.P9,            KC.KP_SLASH,
      KC.P4,                KC.P5,             KC.P6,            KC.KP_ASTERISK,
      KC.P1,                KC.P2,             KC.P3,            KC.KP_MINUS,
      KC.P0,                KC.PDOT,           KC.KP_PLUS,       KC.MO(1),
@@ -67,8 +66,8 @@ Keyboard.keymap = [
    # Layer 4 Common keys combination
    [  
      KC.MEDIA_PLAY_PAUSE,  KC.HOME,           KC.END,           KC.ESCAPE,
-     KC.P7,                KC.P8,             KC.P9,            KC.KP_SLASH,
-     KC.P4,                KC.UP,             KC.P6,            KC.KP_ASTERISK,
+     KC.NO,                KC.NO,             KC.NO,            KC.NO,
+     KC.NO,                KC.NO,             KC.NO,            KC.NO,
      Combinations.Save,    Combinations.Undo, Combinations.Redo,Combinations.CtrlAltDel,
      Combinations.Copy,    Combinations.Paste,Combinations.Cut, Combinations.AltTab,
    ]
