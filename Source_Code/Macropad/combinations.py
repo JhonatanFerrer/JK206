@@ -5,6 +5,7 @@ class Combinations:
     Copy = simple_key_sequence(
         (      
             KC.LCTRL(no_release=True),
+            #KC.LALT(no_release=True),
             KC.C,
         )
     )
@@ -12,6 +13,7 @@ class Combinations:
     Paste = simple_key_sequence(
         (      
             KC.LCTRL(no_release=True),
+            #KC.LALT(no_release=True),
             KC.V,
         )
     )

@@ -1,7 +1,10 @@
 from kmk.keys import KC
+from kmk.consts import UnicodeMode
 from kmk.handlers.sequences import simple_key_sequence
+from kmk.handlers.sequences import unicode_string_sequence
 
-class SymbolsLinux:
+class Symbols:
+    UnicodeMode = UnicodeMode.LINUX
     
     enie = simple_key_sequence(
         (      
@@ -10,23 +13,8 @@ class SymbolsLinux:
         )
     )
 
-    abrirpregunta = simple_key_sequence(
-        (      
-                KC.LCTRL(no_release=True),
-                KC.LSHIFT(no_release=True),
-                KC.U,
-                KC.B,
-                KC.F,
-        )
-    )
+    abrirpregunta = unicode_string_sequence('¿')
 
 
-    grado = simple_key_sequence(
-        (      
-                KC.LCTRL(no_release=True),
-                KC.LSHIFT(no_release=True),
-                KC.U,
-                KC.B,
-                KC.N0,
-        )
-    )
+    grado = unicode_string_sequence('°')
+
