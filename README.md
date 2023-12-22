@@ -45,6 +45,6 @@ Si quieres armar tu propio JK206, entra en la guía, donde estará el paso a pas
 ![IMG_20231221_192107](https://github.com/JhonatanFerrer/JK206/assets/111335841/bcbc75ea-2c7b-4194-98b2-81e01829c725)
 
 
-PD: These photos are from a prototype version of the project, the final version features some minor changes / Estas fotos son de una versión prototipo del proyecto, la versión final presenta algunos cambios menores
+These photos are from a prototype version of the project, the final version features some minor changes / Estas fotos son de una versión prototipo del proyecto, la versión final presenta algunos cambios menores
 
 
