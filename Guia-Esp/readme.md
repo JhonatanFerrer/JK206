@@ -95,6 +95,8 @@ Ahora solo faltaría soldar el Raspberry Pi Pico y la pantalla OLED. Es necesari
 
 En cuanto a la pantalla OLED, su posicionamiento varía dependiendo de cual pantalla vayas a usar. En caso de tener una pantalla rectangular de 0.91 pulgadas esta quedaría sobre la Raspberry, mientras que una pantalla cuadrada de 0.96 pulgadas quedaría a la derecha.
 
+-----Aquí debe haber 2 imagenes ----------------
+
 Nota: para el montaje del teclado, tanto la Raspberry como la pantalla van únicamente en la PCB de la izquierda. El diseño de la PCB no está pensado para que tomen ninguna otra posición.
 
 <h2 align="Left"> 4. Montaje </h2>
