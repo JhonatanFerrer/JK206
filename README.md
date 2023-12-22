@@ -9,7 +9,7 @@ This project consists of a mechanical ortolinear keyboard design that is capable
 This is achieved through a modular design PCB that can be used by itself to mount a macropad with up to 20 keys (5 of them can be exchanged for encoders); while with three PCBs you can mount a keyboard with up to 60 keys (3 of them can be encoders)
 
 
-The source code of the keyboard was written in CircuitPython using the KMK firmware, the microcontroller used is the Raspberry Pi Pico.
+The source code of the keyboard was written in CircuitPython using the <a href="https://github.com/KMKfw/kmk_firmware">KMK firmware</a>, the microcontroller used is the Raspberry Pi Pico.
 
 If you want to build your own JK206, go to the guide, where there will be the step-by-step to assemble and configure it
 
@@ -22,7 +22,7 @@ Este proyecto consiste en un diseño de teclado mecánico ortolineal que es capa
 
 Esto se consigue mediante una PCB de diseño modular que se puede usar por si misma para montar un macropad de hasta 20 teclas (5 de ellas se pueden cambiar por encoders); mientras que con tres PCBs se puede montar un teclado de hasta 60 teclas (3 de ellas pueden ser encoders)
 
-El código fuente del teclado fue escrito en CircuitPython haciendo uso del firmware KMK, el microcontrolador utilizado es el Raspberry Pi Pico.
+El código fuente del teclado fue escrito en CircuitPython haciendo uso del <a href="https://github.com/KMKfw/kmk_firmware">firmware KMK</a>, el microcontrolador utilizado es el Raspberry Pi Pico.
 
 
 Si quieres armar tu propio JK206, entra en la guía, donde estará el paso a paso para ensamblarlo y configurarlo 
