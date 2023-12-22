@@ -33,7 +33,8 @@ Una vez tengas todos los materiales necesarios, toca empezar a soldar. Antes de 
 
 Si estas montando el macropad, tienes que "habilitar" la opción de usar mas encoders en la PCB, para esto basta con unir los puntos de la PCB que se ven en la imagen, de forma que cada uno quede unido con quien tenga a sud derecha o izquierda
 
-![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/57addb74-b026-4cfa-8451-b28f55c42d1b)
+![292385655-57addb74-b026-4cfa-8451-b28f55c42d1b](https://github.com/JhonatanFerrer/JK206/assets/111335841/2189e91f-a64e-4447-abd9-0322da5fcc75)
+
 
 
 De forma que queden unidos de la siguiente manere
