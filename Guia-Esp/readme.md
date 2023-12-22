@@ -53,6 +53,9 @@ Las filas se unen puenteando los puntos que se encuentran a los lados de la PCB 
 
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/734ff414-ec16-4648-906f-d32c0567a64a)
 
+No olvides que para evitar problemas posteriores con el montaje del teclado las 3 PCBs deben quedar completamente juntas y alineadas
+
+
 Ya con los preparativos listos, queda soldar los componentes en sus sitios correspondientes. Comienza colocando los diodos, estos van posicionados de forma que la parte que tiene una linea va hacia abajo, como se puede observar en la misma PCB
 
 ------Aquí debe ir una foto ------
