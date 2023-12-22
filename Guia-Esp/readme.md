@@ -23,7 +23,7 @@ Además de lo anterior, para poder realizar el montaje necesitarás de cautín/s
 
 <h2 align="Left"> 2. Obtener la PCB </h2>
 
-Para obtener las PCBs basta con tomar los gerbers de la PCB (son un .zip) y mandarlos a hacer un una pagina de fabricación de PCBs. Solo hay que tener en cuenta que el número minimo de PCBs que se pueden mandar a hacer generalmente es de 5
+Para obtener las PCBs basta con tomar el gerber de la PCB (es un .zip) y mandarlo a hacer un una pagina de fabricación de PCBs. Solo hay que tener en cuenta que el número minimo de PCBs que se pueden mandar a hacer generalmente es de 5
 
 <h2 align="Left"> 3. Soldar piezas </h2>
 
@@ -41,7 +41,7 @@ De forma que queden unidos de la siguiente manere
 
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/20f61c4c-638f-4485-a3b4-19ebd36d7ff5)
 
-Esto se puede hacer tanto con cable UTP como con un jumper o uniendo directamente ambos puntos con estaño, basta con que la corriente fluya entre ambos puntos
+Esto se puede hacer tanto con cable UTP como con un jumper o uniendo directamente ambos puntos con estaño, basta con que haya continuidad entre ambos puntos
 
 <h3 align="Left"> Para el teclado </h3>
 
