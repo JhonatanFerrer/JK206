@@ -9,14 +9,14 @@ class KMKKeyboard(_KMKKeyboard):
        board.GP1,
        board.GP2,
        board.GP3,
-       board.GP7,
-       board.GP6,
-       board.GP5,
        board.GP4,
-       board.GP11,
-       board.GP10,
-       board.GP9,
+       board.GP5,
+       board.GP6,
+       board.GP7,
        board.GP8,
+       board.GP9,
+       board.GP10,
+       board.GP11,
     )
 
     row_pins = (
