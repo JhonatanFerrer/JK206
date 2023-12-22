@@ -45,6 +45,8 @@ Esto se puede hacer tanto con cable UTP como con un jumper o uniendo directament
 <h3 align="Left"> Para el teclado </h3>
 
 Si estas montando el teclado, tienes que unir las 3 PCBs, para esto hay que unir filas y columnas; las columnas se unen en la parte superior de las PCBs de la siguiente forma:
+
+
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/8d986f73-baac-420b-a798-1e904f3f9116)
 
 Las filas se unen puenteando los puntos que se encuentran a los lados de la PCB junto al punto que le quede inmediatamente al lado de la otra PCB. Esto se hace en ambas intersecciones entre PCBs
@@ -64,6 +66,8 @@ Los encoders se pueden colocar en el macropad de la siguiente forma
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/261219ae-7fc7-40b2-8a4f-46c7caaa28a1)
 
 Las zonas verdes en el diagrama representan los puntos donde puenden colocarse los encoders. No es recomendable colocar dos encoders en posiciones que compartan el mismo número, pues por limitaciones del Raspberry Pi Pico y del diseño de la PCB estos serían reconocidos como un solo encoder; por lo que la formas recomendables de colocar los encoders serían las siguientes
+
+
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/15c20124-f5a1-4b04-b754-f72da8c0276f)
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/4c740b88-ffe2-471d-b411-18dfd2f6fb84)
 
@@ -76,6 +80,8 @@ Teniendo en cuenta lo anterior, empieza a soldar los sockets hotswap y los encod
 -----Aquí deben haber 2 imagenes-------
 
 Ahora solo faltaría soldar el Raspberry Pi Pico y la pantalla OLED. Es necesario que la Raspberry tenga pines soldados para poderla poner en la PCB, así que en caso de que tu Raspberry no los tenga de antemano tendrás que soldarle tu mismo unas regletas Antes de colocarla en la PCB.
+
+
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/e1d4df5e-f2e3-4f1a-a8f8-0bd331d9776c)
 
 
