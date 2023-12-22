@@ -11,6 +11,8 @@ This is achieved through a modular design PCB that can be used by itself to moun
 
 The source code of the keyboard was written in CircuitPython using the KMK firmware, the microcontroller used is the Raspberry Pi Pico.
 
+If you want to build your own JK206, go to the guide, where there will be the step-by-step to assemble and configure it
+
 
 <h2 align="Left"> Español </h2>
 
@@ -20,6 +22,8 @@ Esto se consigue mediante una PCB de diseño modular que se puede usar por si mi
 
 El código fuente del teclado fue escrito en CircuitPython haciendo uso del firmware KMK, el microcontrolador utilizado es el Raspberry Pi Pico.
 
+
+Si quieres armar tu propio JK206, entra en la guía, donde estará el paso a paso para ensamblarlo y configurarlo 
 
 <h1 align="Left"> Photos / Fotos </h1>
 
