@@ -13,11 +13,13 @@ Para poder armar tu propio JK206, sea en su versión de macropad o de teclado 50
 | Diodos 1n4148             | 20                                          | 60                                          |
 | PCB JK206                 | 1                                           | 3                                           |
 | Raspberry Pi Pico         | 1                                           | 1                                           |
-| Pantalla SSD1306          | 1 (opcional pero recomendada)               | 1 (opcional pero recomendada)               |
+| Pantalla OLED SSD1306 (0.91 o 0.96 pulgadas)  | 1 (opcional pero recomendada)               | 1 (opcional pero recomendada)               |
 | Case                      | A preferencia                               | A preferencia                               |
 | Keycaps                   | A preferencia                               | A preferencia                               |
 
 Mas a continuación hablaremos de los tipos de case y que materiales en particular necesitan estos
+
+Además de lo anterior, para poder realizar el montaje necesitarás de cautín/soldador y estaño, el flux de soldadura es opcional pero nunca viene mal para soldar
 
 <h2 align="Left"> 2. Obtener la PCB </h2>
 
@@ -49,7 +51,41 @@ Las filas se unen puenteando los puntos que se encuentran a los lados de la PCB 
 
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/734ff414-ec16-4648-906f-d32c0567a64a)
 
-Ya con los preparativos listos, queda soldar los componentes en sus sitios correspondientes. A excepción de los diodos es dificil colocar algo mal (e incluso estos tienen marcada la orientación correcta en la PCB), por lo que no hay pierde.
+Ya con los preparativos listos, queda soldar los componentes en sus sitios correspondientes. Comienza colocando los diodos, estos van posicionados de forma que la parte que tiene una linea va hacia abajo, como se puede observar en la misma PCB
+
+------Aquí debe ir una foto ------
+
+Lo siguiente sería soldar los sockets hotswap y los encoders, ten en cuenta que donde vayas a colocar enconders no hay que colocar sockets. Dependiendo de si estás armando un teclado o un macropad debes tener en cuenta las siguientes consideraciones:
+
+<h3 align="Left"> Para el macropad </h3>
+
+Los encoders se pueden colocar en el macropad de la siguiente forma
+
+![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/261219ae-7fc7-40b2-8a4f-46c7caaa28a1)
+
+Las zonas verdes en el diagrama representan los puntos donde puenden colocarse los encoders. No es recomendable colocar dos encoders en posiciones que compartan el mismo número, pues por limitaciones del Raspberry Pi Pico y del diseño de la PCB estos serían reconocidos como un solo encoder; por lo que la formas recomendables de colocar los encoders serían las siguientes
+![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/15c20124-f5a1-4b04-b754-f72da8c0276f)
+![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/4c740b88-ffe2-471d-b411-18dfd2f6fb84)
+
+<h3 align="Left"> Para el teclado </h3>
+
+A pesar de tecnicamente poder poner encoders en la pcb de la izquierda en las posiciones 1, 2 y 3 mostradas en la sección anterior. Por cuestiones de usabilidad del teclado se recomienda solo poner un encoder en el extremo superior izquierdo.
+
+Teniendo en cuenta lo anterior, empieza a soldar los sockets hotswap y los encoders que vayas a colocar. Puede que tengas problemas con los sockets, pero si eres generoso con el estaño no habrán mayores dificultades
+
+-----Aquí deben haber 2 imagenes-------
+
+Ahora solo faltaría soldar el Raspberry Pi Pico y la pantalla OLED. Es necesario que la Raspberry tenga pines soldados para poderla poner en la PCB, así que en caso de que tu Raspberry no los tenga de antemano tendrás que soldarle tu mismo unas regletas Antes de colocarla en la PCB.
+![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/e1d4df5e-f2e3-4f1a-a8f8-0bd331d9776c)
+
+
+-----Aquí debe haber una imagen--------
+
+
+
+En cuanto a la pantalla OLED, su posicionamiento varía dependiendo de cual pantalla vayas a usar. En caso de tener una pantalla rectangular de 0.91 pulgadas esta quedaría sobre la Raspberry, mientras que una pantalla cuadrada de 0.96 pulgadas quedaría a la derecha.
+
+Nota: para el montaje del teclado, tanto la Raspberry como la pantalla van únicamente en la PCB de la izquierda. El diseño de la PCB no está pensado para que tomen ninguna otra posición.
 
 <h2 align="Left"> 4. Montaje </h2>
 
