@@ -14,6 +14,8 @@ The source code of the keyboard was written in CircuitPython using the KMK firmw
 If you want to build your own JK206, go to the guide, where there will be the step-by-step to assemble and configure it
 
 
+<strong>Note:</strong> If you just want to assemble your own JK206 and don't plan to modify anything of the PCB design, you don't need to touch the KiCAD files, directly use the Gerbers as the guide says
+
 <h2 align="Left"> Español </h2>
 
 Este proyecto consiste en un diseño de teclado mecánico ortolineal que es capaz de utilizarse tanto para un macropad como para un teclado 50%. 
@@ -24,6 +26,9 @@ El código fuente del teclado fue escrito en CircuitPython haciendo uso del firm
 
 
 Si quieres armar tu propio JK206, entra en la guía, donde estará el paso a paso para ensamblarlo y configurarlo 
+
+
+<strong>Nota:</strong> Si solo quieres montar tu propio JK206 y no piensan modificar nada del diseño de la PCB , no necesitas tocar los archivos de KiCAD, usa directamente los Gerbers como dice la guía
 
 <h1 align="Left"> Photos / Fotos </h1>
 
