@@ -50,8 +50,11 @@ These photos are from a prototype version of the project, the final version feat
 <h1 align="Left"> ToDo </h1>
 
 1. Finish the Spanish guide and make the English guide. / Terminar la guía en español y hacer la guía en inglés
+   
 2. Make the keyboard compatible with <a href="https://peg.software/">Peg</a> / Hacer el teclado compatible con <a href="https://peg.software/">Peg</a>
+
 3. Add the possibility to insert UNICODE characters (this causes keyboard crashes) / Agregar la posibilidad de insertar caracteres UNICODE (esto causa crasheos en el teclado)
+  
 4. Ensure that when the keyboard is connected, the computer does not display its storage, or at least displays it under the name JK206 / Hacer que al ser conectado el teclado, el computador no muestre su almacenamiento, o al menos lo muestre bajo el nombre Jk206
 
 
