@@ -24,7 +24,3 @@ De forma predeterminada la forma en que se escriben algunos símbolos está conf
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/7a111fa9-9dc4-4501-8d4a-8dcf8ae04336)
 
 Aún no está implementado un modo para Mac
-
-
-
-<a href="https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306">DisplayIO_SSD1306</a> y <a href="https://github.com/adafruit/Adafruit_CircuitPython_Display_Text">CircuitPython_Display_Text</a>
