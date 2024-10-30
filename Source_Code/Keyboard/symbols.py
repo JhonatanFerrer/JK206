@@ -30,3 +30,33 @@ class SymbolsLinux:
                 KC.N0,
         )
     )
+
+class SymbolsWindows:
+    #ñ
+    enie = simple_key_sequence( 
+        (      
+                KC.TILDE,
+                KC.N,
+        )
+    )
+    #¿
+    abrirpregunta = simple_key_sequence( 
+         (      
+                KC.LALT(no_release=True),
+                KC.KP_1,
+                KC.KP_6,
+                KC.KP_8,
+        )
+    )
+
+    #°
+    grado = simple_key_sequence( 
+        (      
+                KC.LALT(no_release=True),
+                KC.KP_0,
+                KC.KP_1,
+                KC.KP_7,
+                KC.KP_6,
+        )
+    )
+
