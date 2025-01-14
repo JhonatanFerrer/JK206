@@ -25,7 +25,7 @@ Además de lo anterior, para poder realizar el montaje necesitarás de cautín/s
 
 Para obtener las PCBs basta con tomar el gerber de la PCB (es un .zip) y mandarlo a hacer un una pagina de fabricación de PCBs. Solo hay que tener en cuenta que el número minimo de PCBs que se pueden mandar a hacer generalmente es de 5
 
-<h2 align="Left"> 3. Soldar piezas </h2>
+<h2 align="Left"> 3. Preparar la PCB </h2>
 
 Una vez tengas todos los materiales necesarios, toca empezar a soldar. Antes de empezar a soldar las piezas ten en cuenta lo siguiente según quieras montar un macropad o un teclado.
 
@@ -56,6 +56,8 @@ Las filas se unen puenteando los puntos que se encuentran a los lados de la PCB 
 
 No olvides que para evitar problemas posteriores con el montaje del teclado las 3 PCBs deben quedar completamente juntas y alineadas
 
+
+<h2 align="Left"> 3. Soldar piezas </h2>
 
 Ya con los preparativos listos, queda soldar los componentes en sus sitios correspondientes. Comienza colocando los diodos, estos van posicionados de forma que la parte que tiene una linea va hacia abajo, como se puede observar en la misma PCB
 
