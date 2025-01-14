@@ -59,7 +59,7 @@ No olvides que para evitar problemas posteriores con el montaje del teclado las 
 
 Ya con los preparativos listos, queda soldar los componentes en sus sitios correspondientes. Comienza colocando los diodos, estos van posicionados de forma que la parte que tiene una linea va hacia abajo, como se puede observar en la misma PCB
 
-------Aquí debe ir una foto ------
+![IMG_20250111_233957](https://github.com/user-attachments/assets/0deebb8a-1d8a-4c98-a9b5-f40d03befae3)
 
 Lo siguiente sería soldar los sockets hotswap y los encoders, ten en cuenta que donde vayas a colocar enconders no hay que colocar sockets. Dependiendo de si estás armando un teclado o un macropad debes tener en cuenta las siguientes consideraciones:
 
@@ -81,21 +81,23 @@ A pesar de tecnicamente poder poner encoders en la pcb de la izquierda en las po
 
 Teniendo en cuenta lo anterior, empieza a soldar los sockets hotswap y los encoders que vayas a colocar. Puede que tengas problemas con los sockets, pero si eres generoso con el estaño no habrán mayores dificultades
 
------Aquí deben haber 2 imagenes-------
+![IMG_20250111_234158](https://github.com/user-attachments/assets/2b18d638-62e7-41cd-bf09-768f42581df7)
+![IMG_20250111_234228](https://github.com/user-attachments/assets/5e3aa1e8-e9ce-46b1-a27d-408516879857)
+![IMG_20250111_234041](https://github.com/user-attachments/assets/7c991923-5355-49ad-b558-d8e15f57497c)
 
 Ahora solo faltaría soldar el Raspberry Pi Pico y la pantalla OLED. Es necesario que la Raspberry tenga pines soldados para poderla poner en la PCB, así que en caso de que tu Raspberry no los tenga de antemano tendrás que soldarle tu mismo unas regletas Antes de colocarla en la PCB.
 
 
 ![image](https://github.com/JhonatanFerrer/JK206/assets/111335841/e1d4df5e-f2e3-4f1a-a8f8-0bd331d9776c)
 
-
------Aquí debe haber una imagen--------
-
+![IMG_20250111_225725](https://github.com/user-attachments/assets/9943f2f9-16a2-4e09-a465-cdd6062bb180)
 
 
 En cuanto a la pantalla OLED, su posicionamiento varía dependiendo de cual pantalla vayas a usar. En caso de tener una pantalla rectangular de 0.91 pulgadas esta quedaría sobre la Raspberry, mientras que una pantalla cuadrada de 0.96 pulgadas quedaría a la derecha.
 
------Aquí debe haber 2 imagenes ----------------
+![IMG_20250111_231447](https://github.com/user-attachments/assets/ea0b8b9f-d76f-4f5e-8f8c-35bf3330b7b8)
+![IMG_20250111_231349](https://github.com/user-attachments/assets/3840b839-e131-4758-8a00-a087cf327e41)
+
 
 Nota: para el montaje del teclado, tanto la Raspberry como la pantalla van únicamente en la PCB de la izquierda. El diseño de la PCB no está pensado para que tomen ninguna otra posición.
 
