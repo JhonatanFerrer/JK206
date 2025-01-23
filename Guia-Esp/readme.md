@@ -1,7 +1,7 @@
 
 <h1 align="Left"> Armado </h1>
 
-<h2 align="Left"> 1. Materiales </h2>
+<h2 align="Left"> 1. Materiales Base</h2>
 
 Para poder armar tu propio JK206, sea en su versión de macropad o de teclado 50%, necesitas los siguientes materiales:
 
@@ -108,3 +108,49 @@ Nota: para el montaje del teclado, tanto la Raspberry como la pantalla van únic
 Aquí el proceso cambia según el tipo de montaje que se quiera realizar:
 
 <h3 align="Left"> Para el montaje sandwich-case </h3>
+
+Para este montaje relativamente sencillo vas a necesitar de estos materiales:
+
+|                           | Macropad                                    | Teclado                                     |
+| ------------------------- | ------------------------------------------- | ------------------------------------------- |
+| Separadores de latón M2 10mm| 4                                         | 4                                           |
+| Tornillos M2 cabeza plana 6mm| 8                                        | 8                                           |
+| Plate acrílico superior (1.5mm de grosor)   | 1 (de macropad)                             | 1 (de teclado completo                      |
+| Plate acrílico inferior (1.5mm de grosor)   | 1 (de macropad)                             | 1 (de teclado completo                      |
+
+Esta guía de montaje estará enfocada principalmente para el macropad, pero el montaje del JK206 en modo teclado es muy similar y la guía debería servir igualmente.
+
+Para realizar el montaje del teclado o macropado lo primero será tomar el plate inferior y colocarle pies antideslizantes bajo preferencia del usuario.
+
+![IMG_20250121_221636](https://github.com/user-attachments/assets/42427d16-c144-42f8-98af-191288188648)
+
+
+Una vez hecho esto seguiría atornillar a éste los separadores
+
+![IMG_20250122_213610](https://github.com/user-attachments/assets/f56cbecc-82e8-456f-b305-00ac5f930a01)
+
+![IMG_20250122_213600](https://github.com/user-attachments/assets/be4fccbe-bb4c-45c6-b4b4-591005383395)
+
+
+Nota: Los plates superior e inferior de la versión de teclado completo del JK206 tienen huecos para 12 separadores, aunque yo recomiendo usar solo 4 (2 al extremo derecho y 2 al extremo izquierdo),pero queda la opción de colocar mas separadores si se desea una sensación mas rígida al escribir
+
+Ya teniendo nuestro plate inferior ahora vamos a sujetar nuestra PCB al plate superior con los switches, para esto basta con colocar un par de switches en el plate para luego colocarlos juntos en la PCB
+
+![IMG_20250121_222020](https://github.com/user-attachments/assets/b1b5b28b-8e55-47af-9ecc-ea8817459f2a)
+
+![IMG_20250121_222112](https://github.com/user-attachments/assets/64c44b68-a08f-4113-85d3-3a0e4d27aa3d)
+
+Despues de esto quedaría colocar los switches faltantes
+
+![IMG_20250121_222300](https://github.com/user-attachments/assets/a2773ded-38ee-4008-80bd-7a5d7aeb76ee)
+
+Ya teniendo unidos plate, pcb y switches podemos atornillar el plate superior a los separadores que habíamos colocado anteriormente en el plate inferior
+
+![IMG_20250121_222456](https://github.com/user-attachments/assets/43fd86f2-b0a6-45bd-934f-476f111d68de)
+
+Y con esto ya tenemos nuestro teclado o macropad listo, solo faltaría colocar keycaps a nuestro gusto y disfrutar.
+
+![IMG_20250121_222836](https://github.com/user-attachments/assets/a5e6be41-453b-48a2-ab99-7aa1fcc90356)
+
+<h4 align="Left"> Mods recomendados: </h4>
+En general el tape mod funciona bien con el montaje, fuera de eso no hay mucho mas que se pueda hacer.
