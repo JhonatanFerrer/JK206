@@ -1,5 +1,5 @@
 
-<h1 align="Left"> Armado </h1>
+<h1 align="Left"> Guía ensamble </h1>
 
 <h2 align="Left"> 1. Materiales Base</h2>
 
