@@ -158,7 +158,7 @@ En general el tape mod funciona bien con el montaje, fuera de eso no hay mucho m
 
 <h2 align="Left"> 5. Instalación del firmware </h2>
 
-Ésta es la parte más fácil, para esto solo debes instalar [KMK](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) y sobre este colocar los archivos de configuración, sean los del [macropad](https://github.com/JhonatanFerrer/JK206/tree/main/Source_Code/Macropad) o el [teclado completo](https://github.com/JhonatanFerrer/JK206/tree/main/Source_Code/Keyboard).
+Ésta es la parte más fácil, para esto solo debes instalar [KMK](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) en tu teclado o macropad siguiendo la guía y sobre éste colocar los archivos de configuración, sean los del [macropad](https://github.com/JhonatanFerrer/JK206/tree/main/Source_Code/Macropad) o el [teclado completo](https://github.com/JhonatanFerrer/JK206/tree/main/Source_Code/Keyboard).
 
 
 Y con ésto ya deberías tener completamente funcional tu JK206 :D
