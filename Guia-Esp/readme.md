@@ -103,7 +103,7 @@ En cuanto a la pantalla OLED, su posicionamiento varía dependiendo de cual pant
 
 Nota: para el montaje del teclado, tanto la Raspberry como la pantalla van únicamente en la PCB de la izquierda. El diseño de la PCB no está pensado para que tomen ninguna otra posición.
 
-<h2 align="Left"> 4. Montaje </h2>
+<h2 align="Left"> 5. Montaje </h2>
 
 Aquí el proceso cambia según el tipo de montaje que se quiera realizar:
 
@@ -154,3 +154,11 @@ Y con esto ya tenemos nuestro teclado o macropad listo, solo faltaría colocar k
 
 <h4 align="Left"> Mods recomendados: </h4>
 En general el tape mod funciona bien con el montaje, fuera de eso no hay mucho mas que se pueda hacer.
+
+
+<h2 align="Left"> 5. Instalación del firmware </h2>
+
+Ésta es la parte más fácil, para esto solo debes instalar [KMK](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) y sobre este colocar los archivos de configuración, sean los del [macropad](https://github.com/JhonatanFerrer/JK206/tree/main/Source_Code/Macropad) o el [teclado completo](https://github.com/JhonatanFerrer/JK206/tree/main/Source_Code/Keyboard).
+
+
+Y con ésto ya deberías tener completamente funcional tu JK206 :D
