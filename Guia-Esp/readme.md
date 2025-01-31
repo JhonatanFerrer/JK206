@@ -111,12 +111,11 @@ Aquí el proceso cambia según el tipo de montaje que se quiera realizar:
 
 Para este montaje relativamente sencillo vas a necesitar de estos materiales:
 
-|                           | Macropad                                    | Teclado                                     |
-| ------------------------- | ------------------------------------------- | ------------------------------------------- |
-| Separadores de latón M2 10mm| 4                                         | 4                                           |
-| Tornillos M2 cabeza plana 6mm| 8                                        | 8                                           |
-| Plate acrílico superior (1.5mm de grosor)   | 1 (de macropad)                             | 1 (de teclado completo                      |
-| Plate acrílico inferior (1.5mm de grosor)   | 1 (de macropad)                             | 1 (de teclado completo                      |
+|                                   | Macropad                                    | Teclado                                     |
+| --------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| Separadores de latón M2 10mm      | 4                                         | 4                                           |
+| Tornillos M2 cabeza plana 6mm     | 8                                        | 8                                           |
+| Plates acrílicos (1.5mm de grosor)| [1 par](https://github.com/JhonatanFerrer/JK206/blob/main/Cases/Sandwich-Case/Macropad/Plates%20macropad.pdf))              | [1 par](https://github.com/JhonatanFerrer/JK206/blob/main/Cases/Sandwich-Case/Keyboard/Plates%20keyboard.pdf)        |
 
 Esta guía de montaje estará enfocada principalmente para el macropad, pero el montaje del JK206 en modo teclado es muy similar y la guía debería servir igualmente.
 
